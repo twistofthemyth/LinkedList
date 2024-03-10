@@ -1,0 +1,9 @@
+## Java
+*.class
+
+/local.properties
+.idea/
+
+## Gradle
+.gradle
+build/
